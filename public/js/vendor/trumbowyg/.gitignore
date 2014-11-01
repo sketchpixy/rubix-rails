@@ -1,0 +1,16 @@
+# Others
+~$*
+.sass-cache/
+uploaded-files/
+screenshot.jpg
+compass_app_log.txt
+node_modules/
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mac crap
+.DS_Store
